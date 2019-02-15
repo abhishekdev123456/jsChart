@@ -1,0 +1,4 @@
+# jsChart
+---
+permalink: /index.html
+---
